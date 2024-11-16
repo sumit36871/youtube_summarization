@@ -1,0 +1,12 @@
+phidata
+streamlit
+youtube_transcript_api
+pytube
+openai
+groq
+langchain
+python-dotenv==1.0.0
+langchain
+langchain-groq
+deep-translator
+fpdf
